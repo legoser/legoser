@@ -46,7 +46,7 @@ Feel free to connect with me on LinkedIn or check out my work here on GitHub. I'
 
 ### 📫 How to reach me ...
 - **Email**: [legos.creator@gmail.com](mailto:legos.creator@gmail.com)
-- **LinkedIn**: [Oleg Gorkov](https://www.linkedin.com/in/oleg-gorkov)
+- **LinkedIn**: [Oleg Gorkov](https://www.linkedin.com/in/gorkov-oleg/)
 - **Telegram**: [@legos_dev](https://t.me/legos_dev)
 
 ### 😄 Pronouns: ...
